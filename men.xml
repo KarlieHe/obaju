@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!--
+  Function: details of products
+  Author: ZILING HE
+  Date:26/7/2017
+
+-->
+
+<PRODUCT>
+    <MEN>
+        <TSHIRTS>
+            <NAME>Armani Jeans Crew Neck Gradient T Shirt White</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>70</PRICE>
+            <DETAILS>Armani Jeans Crew Neck Gradient T Shirt In White, A classic t shirt with a ribbed crew neckline and short sleeves. An overall dip dye effect gradient design in white and navy.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of trendy tops, crafted with intricate details. Create a chic statement look by teaming this lace number with skinny jeans and pumps.</INTRO>
+            <PHOTO1>img/image1.jpeg</PHOTO1>
+            <PHOTO2>img/image2.jpeg</PHOTO2>
+        </TSHIRTS>
+    </MEN>
+
+    <MEN>
+        <TSHIRTS>
+            <NAME>Armani Jeans Logo Crew Neck T Shirt Blue</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>50</PRICE>
+            <DETAILS>Armani Jeans Logo Crew Neck T Shirt In Night Blue, A ribbed crew neckline and short sleeves. A large signature Armani Jeans logo design is printed on the chest in blue and white.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of trendy tops, crafted with intricate details. Create a chic statement look by teaming this lace number with skinny jeans and pumps.</INTRO>
+            <PHOTO1>img/image3.jpeg</PHOTO1>
+            <PHOTO2>img/image4.jpeg</PHOTO2>
+        </TSHIRTS>
+    </MEN>
+
+    <MEN>
+        <TSHIRTS>
+            <NAME>Versace Jeans Logo T Shirt Blue</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>100</PRICE>
+            <DETAILS>Versace Jeans Logo T Shirt In Blue, Regular Fit. A classic cotton t shirt with a ribbed crew neck and short sleeves. The front of the body has repeated Versace Jeans logos printed in silver. Top stitching in blue.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of trendy tops, crafted with intricate details. Create a chic statement look by teaming this lace number with skinny jeans and pumps.</INTRO>
+            <PHOTO1>img/image5.jpeg</PHOTO1>
+            <PHOTO2>img/image6.jpeg</PHOTO2>
+        </TSHIRTS>
+    </MEN>
+
+    <MEN>
+        <TSHIRTS>
+            <NAME>Versace Jeans Printed T Shirt Green</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>150</PRICE>
+            <DETAILS>Versace Jeans Printed T Shirt In Turquoise Green, Slim Fit. Allover baroque and animal print in turquoise green, blue, black and yellow with a ribbed crew neck in black and short sleeves. A signature Versace Jeans logo is printed on the chest in black.</DETAILS>
+            <MATERIAL>95% Cotton And 5% Elastane</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of trendy tops, crafted with intricate details. Create a chic statement look by teaming this lace number with skinny jeans and pumps</INTRO>
+            <PHOTO1>img/image7.jpeg</PHOTO1>
+            <PHOTO2>img/image8.jpeg</PHOTO2>
+        </TSHIRTS>
+    </MEN>
+
+    <MEN>
+        <TSHIRTS>
+            <NAME>Columbian-fit Hawaii print T-shirt</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>1000</PRICE>
+            <DETAILS>This multicolour blue Hawaii print T-shirt depicts the image of a windswept sea and sinking ship.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of trendy tops, crafted with intricate details. Create a chic statement look by teaming this lace number with skinny jeans and pumps.</INTRO>
+            <PHOTO1>img/image9.jpg</PHOTO1>
+            <PHOTO2>img/image10.jpg</PHOTO2>
+        </TSHIRTS>
+    </MEN>
+
+
+    <MEN>
+        <SHIRTS>
+            <NAME>Versace Jeans Long Sleeved Shirt Black</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>200</PRICE>
+            <DETAILS>Versace Jeans Long Sleeved Shirt In Black, Slim Fit. A full front black Versace Jeans button fastening with a dark metal Versace Jeans Tiger logo top button. A standard shirt collar with button fastening cuffs on the long sleeves. The front of the shirt features an overall Versace Jeans Tiger logo design in white.</DETAILS>
+            <MATERIAL>96% Cotton And 4% Elastane.</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of shirts, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image15.jpeg</PHOTO1>
+            <PHOTO2>img/image16.jpeg</PHOTO2>
+        </SHIRTS>
+    </MEN>
+
+    <MEN>
+        <SHIRTS>
+            <NAME>Armani Collezioni Long Sleeved Check Shirt Navy</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>210</PRICE>
+            <DETAILS>Armani Collezioni Long Sleeved Check Shirt In Navy, An overall woven gingham check design in navy and white on a textured seersucker fabric. A full front grey pearlescent Armani Collezioni logo embossed button opening with a standard shirt collar and adjustable button fastening cuffs on the long sleeves.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of shirts, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image11.jpeg</PHOTO1>
+            <PHOTO2>img/image12.jpeg</PHOTO2>
+        </SHIRTS>
+    </MEN>
+
+    <MEN>
+        <PANTS>
+            <NAME>Jack Honey Newbill Comfort Fit Jeans Blue</NAME>
+            <BRAND>Jack Honey</BRAND>
+            <PRICE>170</PRICE>
+            <DETAILS>Jack Honey Newbill Comfort Fit Forever Dark Jeans In An 11oz Dark Indigo Blue Stretch Denim, A full black and dark metal Jack Honey logo embossed button fly with six large belt loops on the waistband.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Jack Honey's new range of jeans, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image17.jpeg</PHOTO1>
+            <PHOTO2>img/image18.jpeg</PHOTO2>
+        </PANTS>
+    </MEN>
+
+    <MEN>
+        <PANTS>
+            <NAME>Carlo Bruni Waitom Regular Slim Fit Jeans Blue</NAME>
+            <BRAND>Carlo Bruni</BRAND>
+            <PRICE>115</PRICE>
+            <DETAILS>Carlo Bruni Waitom Regular Slim Fit Jeans In An 11.5oz Deep Blue Denim, Intentional fading to typical stress points with intentional crease effect to the thighs, waistband and reverse of the knees.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Carlo Bruni's new range of jeans, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image19.jpeg</PHOTO1>
+            <PHOTO2>img/image20.jpeg</PHOTO2>
+        </PANTS>
+    </MEN>
+
+    <MEN>
+        <ACCESSORIES>
+            <BAG>
+                <NAME>Armani Jeans Small Shoulder Bag Blue</NAME>
+                <BRAND>Armani</BRAND>
+                <PRICE>125</PRICE>
+                <DETAILS>Armani Jeans Small Shoulder Bag in Blue, Large adjustable shoulder strap in black with the body of the bag in a blue woven canvas fabric.</DETAILS>
+                <MATERIAL>100% Polyester</MATERIAL>
+                <CARE>Hand wash</CARE>
+                <FIT>The bag measures 8 inches in width and 8.5 inches in height.</FIT>
+                <INTRO>Define style this season with Armani's new range of bags, crafted with intricate details.</INTRO>
+                <PHOTO1>img/image21.jpeg</PHOTO1>
+                <PHOTO2>img/image22.jpeg</PHOTO2>
+            </BAG>
+        </ACCESSORIES>
+    </MEN>
+
+    <MEN>
+        <ACCESSORIES>
+            <BELT>
+                <NAME>Armani Exchange Reversible Belt Black</NAME>
+                <BRAND>Armani</BRAND>
+                <PRICE>110</PRICE>
+                <DETAILS>Armani Exchange Reversible Leather Belt In Black And Phantom Grey, A genuine leather belt strap with one side in black and the alternative side in phantom dark grey. Five holes at the squared end and a dark metal AX logo buckle.</DETAILS>
+                <MATERIAL>100% Genuine Leather</MATERIAL>
+                <FIT>3" Waist</FIT>
+                <INTRO>Define style this season with Armani's new range of belts, crafted with intricate details</INTRO>
+                <PHOTO1>img/image23.jpeg</PHOTO1>
+                <PHOTO2>img/image24.jpeg</PHOTO2>
+            </BELT>
+        </ACCESSORIES>
+    </MEN>
+
+    <MEN>
+        <ACCESSORIES>
+            <BELT>
+                <NAME>Versace Jeans Reversible Leather Belt Black</NAME>
+                <BRAND>Versace</BRAND>
+                <PRICE>75</PRICE>
+                <DETAILS>Versace Jeans Reversible Leather Belt in Black And Blue, A square reversible silver coloured metal pin buckle featuring the signature Versace Jeans logo on the metal belt loop. The belt strap is in black saffiano leather on one side with the alternate side in a textured blue suede leather.</DETAILS>
+                <MATERIAL>100% leather</MATERIAL>
+                <FIT>3" Waist</FIT>
+                <INTRO>Define style this season with Versace's new range of belts, crafted with intricate details.</INTRO>
+                <PHOTO1>img/image25.jpeg</PHOTO1>
+                <PHOTO2>img/image26.jpeg</PHOTO2>
+            </BELT>
+        </ACCESSORIES>
+    </MEN>
+</PRODUCT>
+

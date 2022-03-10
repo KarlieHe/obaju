@@ -1,0 +1,11 @@
+DROP TABLE Sign_in;
+
+CREATE TABLE Sign_in
+     ( Email VARCHAR2(50) NOT NULL,
+       Name VARCHAR2(10),        
+       Password VARCHAR2(50), 
+       Primary key (Email) 
+     ); 
+
+INSERT INTO Sign_in VALUES ('karlie97@163.com','karlie','123456');
+commit;

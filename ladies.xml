@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+
+<!--
+    details of lady's Tshirts
+    commented by Ziling He 05/08/2017
+ -->
+
+<PRODUCT>
+    <LADIES>
+        <TSHIRTS>
+            <NAME>A|X WINGS LOGO TEE</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>50</PRICE>
+            <DETAILS>Delicate wings evoke A|X's classic eagle insignia in a new way.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image27.jpg</PHOTO1>
+            <PHOTO2>img/image28.jpg</PHOTO2>
+        </TSHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <TSHIRTS>
+            <NAME>SEQUIN LOGO CREWNECK TEE</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>55</PRICE>
+            <DETAILS>Our classic logo gets a glam update, studded in high-shine reflective sequins.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image29.jpg</PHOTO1>
+            <PHOTO2>img/image30.jpg</PHOTO2>
+        </TSHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <TSHIRTS>
+            <NAME>Versace Embroidered T-shirt</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>415</PRICE>
+            <DETAILS>Embroidered in neon green, the designer's name serves as a bold announcement of the iconic house. Wear the buttoned-neck look with your favourite bomber jacket for downtown cool.</DETAILS>
+            <MATERIAL>90% viscose, 10% elastane</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of shirts, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image31.jpg</PHOTO1>
+            <PHOTO2>img/image32.jpg</PHOTO2>
+        </TSHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <TSHIRTS>
+            <NAME>Versace Logo contrast top</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>1200</PRICE>
+            <DETAILS>Make a vibrant statement with this top from Versace with its contrasting colour panels. The designer logo emblazoned on the front has a tactile feel that shows your love for Versace artfully.</DETAILS>
+            <MATERIAL>71% acetate, 29% viscose</MATERIAL>
+            <CARE>Dry clean</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of shirts, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image33.jpg</PHOTO1>
+            <PHOTO2>img/image34.jpg</PHOTO2>
+        </TSHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <SHIRTS>
+            <NAME>Armani Blue stretch cotton plain shirt</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>150</PRICE>
+            <DETAILS>Blue stretch cotton plain shirt from Armani Jeans. Crafted from a high quality fabric, this piece delivers a soft touch to the skin whilst keeping your basic ensembles stylish.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image35.jpg</PHOTO1>
+            <PHOTO2>img/image36.jpg</PHOTO2>
+        </SHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <SHIRTS>
+            <NAME>Armani Chambray Shirt</NAME>
+            <BRAND>Armani</BRAND>
+            <PRICE>155</PRICE>
+            <DETAILS>This Armani Jeans Chambray shirt is a luxurious alternative to a classic denim shirt. Crafted from a high quality fabric, this piece delivers a soft touch to the skin whilst keeping your basic ensembles stylish.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Armani's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image37.jpg</PHOTO1>
+            <PHOTO2>img/image38.jpg</PHOTO2>
+        </SHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <SHIRTS>
+            <NAME>Versace Printed silk-twill shirt</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>1350</PRICE>
+            <DETAILS>This silk-twill shirt is paneled with leopard spots through the front and zebra stripes at the back. It's finished with gold 'Medusa' buttons at the collar and cuffs and is intended for a slightly loose fit.</DETAILS>
+            <MATERIAL>100% Silk</MATERIAL>
+            <CARE>Dry clean</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image39.jpg</PHOTO1>
+            <PHOTO2>img/image40.jpg</PHOTO2>
+        </SHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <SHIRTS>
+            <NAME>Versace Baroccoflage print shirt</NAME>
+            <BRAND>Versace</BRAND>
+            <PRICE>1450</PRICE>
+            <DETAILS>Cut in Italy from multicoloured silk, the vibrant piece boasts a classic collar, long sleeves with button cuffs, a concealed front button placket, a loose-fitting flowy silhouette.</DETAILS>
+            <MATERIAL>100% Silk</MATERIAL>
+            <CARE>Dry clean</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Versace's new range of Tees, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image41.jpg</PHOTO1>
+            <PHOTO2>img/image42.jpg</PHOTO2>
+        </SHIRTS>
+    </LADIES>
+
+    <LADIES>
+        <ACCESSORIES>
+            <BAG>
+                <NAME>Armani Borsa Bag</NAME>
+                <BRAND>Armani</BRAND>
+                <PRICE>660</PRICE>
+                <DETAILS>The Borsa Shopping Bag from Armani Jeans is sleek and simple with its luxe leather-look shell, silver-toned hardware and elegant red lining.</DETAILS>
+                <MATERIAL>100% Calf Leather</MATERIAL>
+                <FIT>H28cm x W46cm x D8cm</FIT>
+                <INTRO>Define style this season with Armani's new range of belts, crafted with intricate details</INTRO>
+                <PHOTO>1.jpg</PHOTO>
+                <PHOTO1>img/image53.jpg</PHOTO1>
+                <PHOTO2>img/image54.jpg</PHOTO2>
+            </BAG>
+        </ACCESSORIES>
+    </LADIES>
+
+    <LADIES>
+        <ACCESSORIES>
+            <BELT>
+                <NAME>Versace Medusa belt</NAME>
+                <BRAND>Versace</BRAND>
+                <PRICE>666</PRICE>
+                <DETAILS>Black calf leather Medusa belt from Versace featuring gold-tone hardware and an adjustable fit.</DETAILS>
+                <MATERIAL>100% Calf Leather</MATERIAL>
+                <FIT>3" Waist</FIT>
+                <INTRO>Define style this season with Versace's new range of belts, crafted with intricate details</INTRO>
+                <PHOTO1>img/image51.jpg</PHOTO1>
+                <PHOTO2>img/image52.jpg</PHOTO2>
+            </BELT>
+        </ACCESSORIES>
+    </LADIES>
+
+    <LADIES>
+        <ACCESSORIES>
+            <BAG>
+                <NAME>Carlo Bruni clutch</NAME>
+                <BRAND>Carlo Bruni</BRAND>
+                <PRICE>1666</PRICE>
+                <DETAILS>Black leather knuckle box clutch from Alexander McQueen featuring gold-tone hardware, an oblong body, crystal embellishments and a gold-tone stud detailing.</DETAILS>
+                <MATERIAL>50% Leather and 50% other fibres</MATERIAL>
+                <FIT>H7cm x W22cm x D4.5cm</FIT>
+                <INTRO>Define style this season with Carlo Bruni's new range of belts, crafted with intricate details</INTRO>
+                <PHOTO1>img/image55.jpg</PHOTO1>
+                <PHOTO2>img/image56.jpg</PHOTO2>
+            </BAG>
+        </ACCESSORIES>
+    </LADIES>
+
+    <LADIES>
+        <PANTS>
+            <NAME>Carlo Bruni Cream High Waisted Wide Leg pants</NAME>
+            <BRAND>Carlo Bruni</BRAND>
+            <PRICE>65</PRICE>
+            <DETAILS>With super flattering curve skimming fabric and tailoring detail. Wear with a crop top, shirt or bodysuit for a sophisticated feel. Length approx 115cm/45".</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Carlo Bruni's new range of jeans, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image45.jpg</PHOTO1>
+            <PHOTO2>img/image46.jpg</PHOTO2>
+        </PANTS>
+    </LADIES>
+
+
+    <LADIES>
+        <PANTS>
+            <NAME>Jack Honey loose fit cropped pants</NAME>
+            <BRAND>Jack Honey</BRAND>
+            <PRICE>115</PRICE>
+            <DETAILS>Beige loose fit cropped trousers.</DETAILS>
+            <MATERIAL>100% Cotton</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Jack Honey's new new range of jeans, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image47.jpg</PHOTO1>
+            <PHOTO2>img/image48.jpg</PHOTO2>
+        </PANTS>
+    </LADIES>
+
+    <LADIES>
+        <PANTS>
+            <NAME>Jack Honey striped flared trousers</NAME>
+            <BRAND>Jack Honey</BRAND>
+            <PRICE>515</PRICE>
+            <DETAILS>Black and brown striped flared trousers from Jack Honey.</DETAILS>
+            <MATERIAL>100% Viscose</MATERIAL>
+            <CARE>Machine wash</CARE>
+            <SIZE>Regular fit</SIZE>
+            <FIT>The model (height 5'8" and chest 33") is wearing a size S</FIT>
+            <INTRO>Define style this season with Jack Honey's new new range of jeans, crafted with intricate details.</INTRO>
+            <PHOTO1>img/image49.jpg</PHOTO1>
+            <PHOTO2>img/image50.jpg</PHOTO2>
+        </PANTS>
+    </LADIES>
+
+
+
+
+
+
+
+
+
+</PRODUCT>
